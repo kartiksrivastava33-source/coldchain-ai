@@ -1,7 +1,7 @@
 [project]
 name = "cold-chain-logistics-fde-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Agentic supply chain intelligence platform for evidence-based cold-chain shipment investigations."
 readme = "README.md"
 authors = [
     { name = "Kartik Srivastava", email = "kartiksrivastava33@gmail.com" }
