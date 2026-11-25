@@ -1,0 +1,45 @@
+# LangChain and Agent Orchestration
+langchain
+langchain-core
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+langchain-google-genai
+langchain-qdrant
+langchain-huggingface
+langchain-text-splitters
+
+# LLM Embeddings and Vector Database
+sentence-transformers
+qdrant-client
+
+# Database
+sqlalchemy
+pymysql
+
+# Data Processing and Machine Learning
+numpy
+pandas
+scikit-learn
+joblib
+
+# API and Dashboard
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+
+# External APIs and Configuration
+requests
+python-dotenv
+
+# Persistence and Utilities
+aiosqlite
+
+# Testing
+pytest
+httpx
+
+# Notebook and Development
+jupyter
+ipykernel

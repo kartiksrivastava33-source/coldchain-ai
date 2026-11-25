@@ -1,0 +1,31 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Databases and checkpoints
+*.sqlite
+*.sqlite3
+*.db
+*-shm
+*-wal
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+cold-chain-logistics-FDE-Project.sql
